@@ -1,0 +1,22 @@
+{
+  "name": "myappp",
+  "version": "1.0.0",
+  "description": "kskksks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatishKumar276/JenkinsRepo.git"
+  },
+  "keywords": [
+    "sss"
+  ],
+  "author": "sss",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SatishKumar276/JenkinsRepo/issues"
+  },
+  "homepage": "https://github.com/SatishKumar276/JenkinsRepo#readme"
+}
